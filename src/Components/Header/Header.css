@@ -1,0 +1,12 @@
+.nav{
+    background: black;
+}
+.navItem{
+    text-decoration: none;
+    color: white;
+    padding:10px 20px;
+    font-weight: bold;
+}
+.navItem:hover{
+    background: lightgrey;
+}

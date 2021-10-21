@@ -1,0 +1,11 @@
+.card_img{
+    width: 200px;
+    height: 200px;
+}
+.pointer{
+    cursor: pointer;
+    color: red;
+}
+.star-color{
+    color: gold;
+}
